@@ -112,8 +112,3 @@ html {
     margin: 0 auto 50px auto;
     text-align: left;
   }
-.tribute-name {
-    position: sticky;
-    position: -webkit-sticky;
-    top: 0;
-}
