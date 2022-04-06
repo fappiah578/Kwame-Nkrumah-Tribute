@@ -114,4 +114,6 @@ html {
   }
 .tribute-name {
     position: sticky;
+    position: -webkit-sticky;
+    top: 0;
 }
