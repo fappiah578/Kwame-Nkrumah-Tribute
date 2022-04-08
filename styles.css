@@ -58,8 +58,7 @@ html {
     margin: 30px 8px;
     padding: 15px;
     border-radius: 5px;
-    background: rgb(221, 167, 52);
-    opacity: 1;
+    background: rgb(238, 238, 238);
   }
   
   @media (max-width: 460px) {
