@@ -59,6 +59,7 @@ html {
     padding: 15px;
     border-radius: 5px;
     background: rgb(221, 167, 52);
+    opacity: 1;
   }
   
   @media (max-width: 460px) {
