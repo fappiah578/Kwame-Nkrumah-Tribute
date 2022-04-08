@@ -105,6 +105,10 @@ html {
   li {
     margin: 16px 0;
   }
+
+  #youtube {
+    width: 100%;
+  }
   
   blockquote {
     font-style: italic;
